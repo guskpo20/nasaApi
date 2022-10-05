@@ -1,0 +1,4 @@
+- Agregarle link al articulo a los items
+- Ponerle maximo de palabras a la descripcion
+- Un buen fondo
+- Que el enter aprete el boton 
